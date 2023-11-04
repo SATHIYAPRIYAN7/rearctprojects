@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rearctprojects/colorPicker/static/css/main.e154ef8b.css",
-    "main.js": "/rearctprojects/colorPicker/static/js/main.01d5ff31.js",
-    "index.html": "/rearctprojects/colorPicker/index.html",
-    "main.e154ef8b.css.map": "/rearctprojects/colorPicker/static/css/main.e154ef8b.css.map",
-    "main.01d5ff31.js.map": "/rearctprojects/colorPicker/static/js/main.01d5ff31.js.map"
+    "main.css": "/rearctprojects/static/css/main.e154ef8b.css",
+    "main.js": "/rearctprojects/static/js/main.01d5ff31.js",
+    "index.html": "/rearctprojects/index.html",
+    "main.e154ef8b.css.map": "/rearctprojects/static/css/main.e154ef8b.css.map",
+    "main.01d5ff31.js.map": "/rearctprojects/static/js/main.01d5ff31.js.map"
   },
   "entrypoints": [
     "static/css/main.e154ef8b.css",
